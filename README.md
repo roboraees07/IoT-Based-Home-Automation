@@ -3,7 +3,7 @@ This project demonstrates a simple yet effective home automation system using No
 
 # Home Automation System using NodeMCU and Blynk
 
-![Home Automation Banner](images/banner.png)
+![Home Automation Banner](banner.jfif)
 
 ## Overview
 
